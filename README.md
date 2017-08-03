@@ -15,7 +15,7 @@ Directions/Contact Page
 
 These are the site's html files (name the home page "index.html").
 
-The site textual content for each page is located in the file: [SiteContent.rtf](SiteContent.rtf) 
+The site textual content for each page is located in the file: [SiteContent.txt](SiteContent.txt) 
 
 Requirements:
 
@@ -43,8 +43,8 @@ Requirements:
    box-shadow: 5px 5px 5px #828282;
     </pre>
 
-  A <header> section that includes a <h1> tag containing the title text "Casa Ybel Island Hotel" as seen in the image file.
-  The <h1> tag may be styled with the following:
+  A `<header>` section that includes a `<h1>` tag containing the title text "Casa Ybel Island Hotel" as seen in the image file.
+  The `<h1>` tag may be styled with the following:
    <pre>
    background-color:#99ccff;
    color:#3399cc;
@@ -57,10 +57,10 @@ Requirements:
    also, include the background image "shellsmall.jpg" and set the background position to left.
 
 
-  A <nav> section that contains links to all pages using the images provided for the link text.
+  A `<nav>` section that contains links to all pages using the images provided for the link text.
 
 
-  A <footer> section that contains links to all pages. You may style the <footer> tag with these rules:
+  A `<footer>` section that contains links to all pages. You may style the <footer> tag with these rules:
     <pre>
      background-color:#99ccff;
 	 line-height: 250%; 
