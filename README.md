@@ -1,4 +1,4 @@
-cis151 Midterm Project
+Web Creators Final Project
 
 You are to create a website for the (fictional) hotel: "Casa Ybel Island Hotel".
 You may use the images provided and/or include your own. Remember to resize images 
